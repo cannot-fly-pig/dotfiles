@@ -1,0 +1,74 @@
+# c++用 ここから
+[[plugins]]
+repo = 'Shougo/deoplete.nvim'
+on_i = 1
+hook_add = '''
+	let g:deoplete#enable_at_startup = 1
+	let g:deoplete#auto_complete_delay = 200
+	let g:deoplete#auto_complete_start_length = 1
+	let g:deoplete#enable_camel_case = 0
+	let g:deoplete#enable_ignore_case = 0
+	let g:deoplete#enable_refresh_always = 0
+	let g:deoplete#enable_smart_case = 1
+	let g:deoplete#file#enable_buffer_path = 1
+	let g:deoplete#max_list = 5
+'''
+
+[[plugins]]
+repo='prabirshrestha/async.vim'
+on_i = 1
+
+[[plugins]]
+repo='pdavydov108/vim-lsp-cquery'
+on_ft = ['cpp']
+hook_add='''
+	autocmd FileType c,cc,cpp,cxx,h,hpp nnoremap <leader>fv :LspCqueryDerived<CR>
+	autocmd FileType c,cc,cpp,cxx,h,hpp nnoremap <leader>fc :LspCqueryCallers<CR>
+	autocmd FileType c,cc,cpp,cxx,h,hpp nnoremap <leader>fb :LspCqueryBase<CR>
+	autocmd FileType c,cc,cpp,cxx,h,hpp nnoremap <leader>fi :LspCqueryVars<CR>
+'''
+
+[[plugins]]
+repo='prabirshrestha/vim-lsp'
+on_ft  = ['cpp']
+hook_add='''
+	if executable('cquery')
+	   au User lsp_setup call lsp#register_server({
+	      \ 'name': 'cquery',
+	      \ 'cmd': {server_info->['cquery']},
+	      \ 'root_uri': {server_info->lsp#utils#path_to_uri(lsp#utils#find_nearest_parent_file_directory(lsp#utils#get_buffer_path(), 'compile_commands.json'))},
+	      \ 'initialization_options': { 'cacheDirectory': '/tmp/cquery/cache' },
+	      \ 'whitelist': ['c', 'cpp', 'objc', 'objcpp', 'cc'],
+	      \ })
+	endif
+	let g:lsp_signs_enabled = 1         " enable signs
+	let g:lsp_diagnostics_echo_cursor = 1 " enable echo under cursor when in normal mode
+	
+	let g:lsp_signs_error = {'text': '✗'}
+	let g:lsp_signs_warning = {'text': '‼'}
+	
+	let g:asyncomplete_completion_delay=10
+'''
+
+[[plugins]]
+repo='prabirshrestha/asyncomplete.vim'
+on_ft  = ['cpp']
+
+[[plugins]]
+repo='prabirshrestha/asyncomplete-lsp.vim'
+on_ft  = ['cpp']
+
+#atcoder
+[[plugins]]
+repo = 'cannot-fly-pig/vim-atcoder'
+on_ft = ['cpp']
+hook_add = '''
+	let g:atcoder_login = 1
+	let g:atcoder_name = 'cannot_fly_pig'
+	let g:atcoder_pass = '20031120Sho'
+'''
+# c++ ここまで
+#html
+[[plugins]]
+repo = 'suan/vim-instant-markdown'
+on_ft = ['md']

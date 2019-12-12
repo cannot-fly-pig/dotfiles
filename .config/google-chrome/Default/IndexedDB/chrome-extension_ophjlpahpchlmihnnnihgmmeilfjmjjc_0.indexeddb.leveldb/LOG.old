@@ -1,0 +1,15 @@
+2019/11/18-12:01:21.704 3433 Reusing MANIFEST /home/cannot-fly-pig/.config/google-chrome/Default/IndexedDB/chrome-extension_ophjlpahpchlmihnnnihgmmeilfjmjjc_0.indexeddb.leveldb/MANIFEST-000001
+2019/11/18-12:01:21.704 3433 Recovering log #17
+2019/11/18-12:01:21.788 3433 Reusing old log /home/cannot-fly-pig/.config/google-chrome/Default/IndexedDB/chrome-extension_ophjlpahpchlmihnnnihgmmeilfjmjjc_0.indexeddb.leveldb/000017.log 
+2019/11/18-12:03:26.771 142c Level-0 table #23: started
+2019/11/18-12:03:26.793 142c Level-0 table #23: 1681820 bytes OK
+2019/11/18-12:03:26.796 142c Delete type=0 #17
+2019/11/18-12:04:13.261 142c Compacting 1@1 + 2@2 files
+2019/11/18-12:04:13.292 142c Generated table #24@1: 5295 keys, 2141537 bytes
+2019/11/18-12:04:13.343 142c Generated table #25@1: 35361 keys, 2186405 bytes
+2019/11/18-12:04:13.352 142c Generated table #26@1: 2076 keys, 346399 bytes
+2019/11/18-12:04:13.352 142c Compacted 1@1 + 2@2 files => 4674341 bytes
+2019/11/18-12:04:13.359 142c compacted to: files[ 0 0 3 0 0 0 0 ]
+2019/11/18-12:04:13.359 142c Delete type=2 #19
+2019/11/18-12:04:13.359 142c Delete type=2 #20
+2019/11/18-12:04:13.359 142c Delete type=2 #23

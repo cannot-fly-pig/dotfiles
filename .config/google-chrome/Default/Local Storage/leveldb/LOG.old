@@ -1,0 +1,6 @@
+2019/12/12-14:04:33.701 f96 Reusing MANIFEST leveldb/MANIFEST-000001
+2019/12/12-14:04:33.702 f96 Recovering log #461
+2019/12/12-14:04:33.703 f96 Reusing old log leveldb/000461.log 
+2019/12/12-14:29:27.110 291d Level-0 table #466: started
+2019/12/12-14:29:27.121 291d Level-0 table #466: 228436 bytes OK
+2019/12/12-14:29:27.123 291d Delete type=0 #461

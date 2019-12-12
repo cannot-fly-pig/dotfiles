@@ -1,0 +1,11 @@
+2019/12/12-11:27:01.391 4858 Reusing MANIFEST /home/cannot-fly-pig/.config/google-chrome/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb/MANIFEST-000001
+2019/12/12-11:27:01.392 4858 Recovering log #36
+2019/12/12-11:27:01.392 4858 Reusing old log /home/cannot-fly-pig/.config/google-chrome/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb/000036.log 
+2019/12/12-12:17:34.797 afd Compacting 1@1 + 3@2 files
+2019/12/12-12:17:34.819 afd Generated table #55@1: 5821 keys, 2136825 bytes
+2019/12/12-12:17:34.843 afd Generated table #56@1: 5788 keys, 2134644 bytes
+2019/12/12-12:17:34.863 afd Generated table #57@1: 5778 keys, 2136502 bytes
+2019/12/12-12:17:34.896 afd Generated table #58@1: 37134 keys, 2179910 bytes
+2019/12/12-12:17:34.898 afd Generated table #59@1: 193 keys, 10306 bytes
+2019/12/12-12:17:34.898 afd Compacted 1@1 + 3@2 files => 8598187 bytes
+2019/12/12-12:17:34.901 afd compacted to: files[ 0 4 15 0 0 0 0 ]

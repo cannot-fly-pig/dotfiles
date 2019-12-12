@@ -1,0 +1,14 @@
+{
+	"windowPosition": [
+		0,
+		0
+	],
+	"windowSize": [
+		1280,
+		776
+	],
+	"hyper": {
+		"plugins": "{\"plugins\":[\"hyper-pokemon\"],\"localPlugins\":[]}",
+		"plugin-versions": "[[\"hyper-pokemon\",\"0.4.6\"]]"
+	}
+}

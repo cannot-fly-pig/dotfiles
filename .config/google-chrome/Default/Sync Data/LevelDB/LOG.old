@@ -1,0 +1,6 @@
+2019/12/12-14:04:32.869 f99 Reusing MANIFEST /home/cannot-fly-pig/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/12/12-14:04:32.869 f99 Recovering log #81
+2019/12/12-14:04:32.870 f99 Reusing old log /home/cannot-fly-pig/.config/google-chrome/Default/Sync Data/LevelDB/000081.log 
+2019/12/12-14:33:39.590 508c Level-0 table #85: started
+2019/12/12-14:33:39.599 508c Level-0 table #85: 123267 bytes OK
+2019/12/12-14:33:39.609 508c Delete type=0 #81

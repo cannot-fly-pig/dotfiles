@@ -1,0 +1,21 @@
+2019/12/12-14:04:33.378 f8d Reusing MANIFEST Session Storage/MANIFEST-000001
+2019/12/12-14:04:33.379 f8d Recovering log #1033
+2019/12/12-14:04:33.379 f8d Reusing old log Session Storage/001033.log 
+2019/12/12-14:04:49.168 f8e Level-0 table #1037: started
+2019/12/12-14:04:49.174 f8e Level-0 table #1037: 14117 bytes OK
+2019/12/12-14:04:49.176 f8e Delete type=0 #1033
+2019/12/12-14:13:17.998 1dc7 Level-0 table #1039: started
+2019/12/12-14:13:18.003 1dc7 Level-0 table #1039: 15728 bytes OK
+2019/12/12-14:13:18.006 1dc7 Delete type=0 #1036
+2019/12/12-14:39:37.273 5ac6 Level-0 table #1041: started
+2019/12/12-14:39:37.278 5ac6 Level-0 table #1041: 14229 bytes OK
+2019/12/12-14:39:37.287 5ac6 Delete type=0 #1038
+2019/12/12-14:39:37.287 5ac2 Compacting 4@0 + 1@1 files
+2019/12/12-14:39:37.305 5ac2 Generated table #1042@0: 8820 keys, 176064 bytes
+2019/12/12-14:39:37.305 5ac2 Compacted 4@0 + 1@1 files => 176064 bytes
+2019/12/12-14:39:37.313 5ac2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/12/12-14:39:37.313 5ac2 Delete type=2 #1037
+2019/12/12-14:39:37.313 5ac2 Delete type=2 #1039
+2019/12/12-14:39:37.313 5ac2 Delete type=2 #1041
+2019/12/12-14:39:37.314 5ac2 Delete type=2 #1032
+2019/12/12-14:39:37.314 5ac2 Delete type=2 #1034

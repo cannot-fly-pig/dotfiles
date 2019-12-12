@@ -1,0 +1,58 @@
+[[plugins]]
+repo = 'Shougo/dein.vim'
+
+[[plugins]]
+repo = 'Shougo/vimproc.vim'
+
+# カラースキーム
+[[plugins]]
+repo = 'tomasr/molokai'
+
+# tree
+[[plugins]]
+repo = 'scrooloose/nerdtree'
+
+# サラウンド
+[[plugins]]
+repo = 'tpope/vim-surround'
+
+# カッコ自動
+[[plugins]]
+repo = 'Townk/vim-autoclose'
+
+# airline 
+[[plugins]]
+repo = 'vim-airline/vim-airline'
+hook_add = '''
+	let g:airline_powerline_fonts = 2
+'''
+#ハイライト toml
+[[plugins]]
+repo = 'cespare/vim-toml'
+#html
+#[[plugins]]
+#repo = 'kurocode25/mdforvim'
+#hook_add = '''
+#	autocmd    BufNewFile,BufRead    *.html,*.md    :MdPreview
+#'''
+# html
+[[plugin]]
+repo = 'mattn/emmet-vim'
+# 複数行
+[[plugins]]
+repo = 'terryma/vim-multiple-cursors'
+
+#透明化
+[[plugins]]
+repo = 'miyakogi/seiya.vim'
+hook_add = '''
+		let g:seiya_auto_enable=1
+'''
+#カラースキーム
+[[plugins]]
+repo = 'morhetz/gruvbox'
+hook_add = '''
+		let g:gruvbox_contrast_dark = "hard"
+'''
+[[plugins]]
+repo = 'ryanoasis/vim-devicons'

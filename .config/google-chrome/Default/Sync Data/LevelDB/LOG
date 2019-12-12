@@ -1,0 +1,27 @@
+2019/12/12-14:48:24.106 cfb Reusing MANIFEST /home/cannot-fly-pig/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/12/12-14:48:24.106 cfb Recovering log #84
+2019/12/12-14:48:24.107 cfb Reusing old log /home/cannot-fly-pig/.config/google-chrome/Default/Sync Data/LevelDB/000084.log 
+2019/12/12-15:43:00.245 3fda Level-0 table #88: started
+2019/12/12-15:43:00.251 3fda Level-0 table #88: 126141 bytes OK
+2019/12/12-15:43:00.260 3fda Delete type=0 #84
+2019/12/12-16:04:01.522 3fda Level-0 table #90: started
+2019/12/12-16:04:01.529 3fda Level-0 table #90: 133349 bytes OK
+2019/12/12-16:04:01.539 3fda Delete type=0 #87
+2019/12/12-16:04:01.539 3fda Compacting 4@0 + 1@1 files
+2019/12/12-16:04:01.548 3fda Generated table #91@0: 1614 keys, 230137 bytes
+2019/12/12-16:04:01.548 3fda Compacted 4@0 + 1@1 files => 230137 bytes
+2019/12/12-16:04:01.557 3fda compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/12/12-16:04:01.557 3fda Delete type=2 #88
+2019/12/12-16:04:01.557 3fda Delete type=2 #90
+2019/12/12-16:04:01.557 3fda Delete type=2 #80
+2019/12/12-16:04:01.557 3fda Delete type=2 #85
+2019/12/12-16:04:01.557 3fda Delete type=2 #82
+2019/12/12-16:21:19.834 3fda Level-0 table #93: started
+2019/12/12-16:21:19.853 3fda Level-0 table #93: 226019 bytes OK
+2019/12/12-16:21:19.869 3fda Delete type=0 #89
+2019/12/12-16:56:45.115 3fda Level-0 table #95: started
+2019/12/12-16:56:45.125 3fda Level-0 table #95: 149984 bytes OK
+2019/12/12-16:56:45.139 3fda Delete type=0 #92
+2019/12/12-17:22:56.564 3fda Level-0 table #97: started
+2019/12/12-17:22:56.573 3fda Level-0 table #97: 128441 bytes OK
+2019/12/12-17:22:56.588 3fda Delete type=0 #94

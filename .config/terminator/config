@@ -1,0 +1,24 @@
+[global_config]
+[keybindings]
+  go_left = <Primary><Shift>Left
+  go_right = <Primary><Shift>Right
+  move_tab_left = <Primary><Shift>Up
+  move_tab_right = <Primary><Shift>Down
+  next_tab = <Primary>Right
+  prev_tab = <Primary>Left
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    cursor_color = "#aaaaaa"
+    font = Fira Code 11
+    scrollbar_position = hidden
+    show_titlebar = False
+    use_system_font = False

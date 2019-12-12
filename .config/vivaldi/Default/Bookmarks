@@ -1,0 +1,708 @@
+{
+   "checksum": "46eb92a7895865b5d834a836b94cd07d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13216224500701855",
+               "id": "7",
+               "meta_info": {
+                  "Description": "ブラウザ,機能,使い方",
+                  "Partner": "b2db8bf4-bf09-4d2b-b83f-205429d46c58",
+                  "Thumbnail": "/resources/sd_vivaldi.png"
+               },
+               "name": "Vivaldiの機能",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/sd-browser-features-ja"
+            }, {
+               "date_added": "13216224500758575",
+               "id": "8",
+               "meta_info": {
+                  "Description": "ブログ",
+                  "Partner": "b0a9ca8f-6253-42df-ae85-c8b0e0f09745",
+                  "Thumbnail": "/resources/sd_vivaldi_community.gif"
+               },
+               "name": "Vivaldi日本語公式ブログ",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/sd-community-ja"
+            }, {
+               "date_added": "13216224500881428",
+               "id": "9",
+               "meta_info": {
+                  "Partner": "1d54d72a-a2e3-4d55-b857-1af3045dfd39",
+                  "Thumbnail": "/resources/sd_webmail.png"
+               },
+               "name": "Vivaldi Webmail",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/sd-webmail"
+            }, {
+               "date_added": "13216224500895416",
+               "id": "10",
+               "meta_info": {
+                  "Description": "チケット, 航空券, 旅行, ホテル, 予約",
+                  "Partner": "2383a94c-1000-4366-a04a-2d829fbb4a1a",
+                  "Thumbnail": "/resources/sd_expedia.png"
+               },
+               "name": "エクスペディア (Expedia)",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/expedia-jp"
+            }, {
+               "date_added": "13216224500924217",
+               "id": "11",
+               "meta_info": {
+                  "Description": "映画,ドラマ,アニメ,レンタル",
+                  "Partner": "5c37c26c-5803-4e34-b87a-7cc7733f2eed",
+                  "Thumbnail": "/resources/sd_ja_unext.png"
+               },
+               "name": "U-NEXT",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/u-next"
+            }, {
+               "date_added": "13216224500929180",
+               "id": "12",
+               "meta_info": {
+                  "Description": "shopping, electronics",
+                  "Partner": "11608bb1-de6c-4ec6-870d-bf7e50731200",
+                  "Thumbnail": "/resources/sd_amazon.png"
+               },
+               "name": "Amazon",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/amazon-jp"
+            }, {
+               "date_added": "13216224500931869",
+               "id": "13",
+               "meta_info": {
+                  "Description": "海外,国内,旅行,予約",
+                  "Partner": "81e6c511-711d-4f21-bb7f-93618679677b",
+                  "Thumbnail": "/resources/sd_ja_his.png"
+               },
+               "name": "H.I.S.",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/his"
+            }, {
+               "date_added": "13216224500934908",
+               "id": "14",
+               "meta_info": {
+                  "Description": "travel, airfare",
+                  "Partner": "850abf90-0525-4439-820f-d5a96eaf8714",
+                  "Thumbnail": "/resources/sd_kayak.png"
+               },
+               "name": "KAYAK",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/kayak-ja"
+            }, {
+               "date_added": "13216224500935474",
+               "id": "15",
+               "meta_info": {
+                  "Description": "音楽,ダウンロード,ランキング,歌詞",
+                  "Partner": "5759ae92-15f3-43ad-97bf-666bd9bc2383",
+                  "Thumbnail": "/resources/sd_ja_recochoku.png"
+               },
+               "name": "レコチョク",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/recochoku"
+            }, {
+               "date_added": "13216224500954962",
+               "id": "16",
+               "meta_info": {
+                  "Partner": "df60bef2-6f42-403e-94d5-d391b8d1ce03",
+                  "Thumbnail": "/resources/sd_wikipedia.png"
+               },
+               "name": "Wikipedia",
+               "type": "url",
+               "url": "https://ja.wikipedia.org/"
+            }, {
+               "children": [ {
+                  "date_added": "13216224501010141",
+                  "id": "18",
+                  "meta_info": {
+                     "Partner": "bccc4fbb-bb8b-480a-8732-bfe8a30c6689",
+                     "Thumbnail": "/resources/sd_ja_itmedia.png"
+                  },
+                  "name": "IT総合情報ポータル「ITmedia」Home",
+                  "type": "url",
+                  "url": "https://www.itmedia.co.jp/"
+               }, {
+                  "date_added": "13216224501013903",
+                  "id": "19",
+                  "meta_info": {
+                     "Partner": "1228a475-094d-475b-89d6-966d2365e78d",
+                     "Thumbnail": "/resources/sd_ja_mainichi.png"
+                  },
+                  "name": "毎日新聞のニュース・情報サイト",
+                  "type": "url",
+                  "url": "https://mainichi.jp/"
+               }, {
+                  "date_added": "13216224501016215",
+                  "id": "20",
+                  "meta_info": {
+                     "Partner": "f93e8383-53ee-4ef5-bc2e-d0e20676d04a",
+                     "Thumbnail": "/resources/sd_ja_nhk.png"
+                  },
+                  "name": "NHKオンライン",
+                  "type": "url",
+                  "url": "https://www.nhk.or.jp/"
+               } ],
+               "date_added": "13216224500981473",
+               "date_modified": "13216224501016215",
+               "id": "17",
+               "meta_info": {
+                  "Partner": "3d491152-a893-4451-8acd-97284ee4a87c"
+               },
+               "name": "ニュース ",
+               "type": "folder"
+            } ],
+            "date_added": "13216224500656138",
+            "date_modified": "13216224500981489",
+            "id": "6",
+            "meta_info": {
+               "Partner": "c5b5b955-1bd3-46c1-90fc-cfd2e620f928",
+               "Speeddial": "true"
+            },
+            "name": "スピードダイヤル",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13216224501031901",
+               "id": "22",
+               "meta_info": {
+                  "Description": "プログラミング,オンライン,コース,スクール",
+                  "Partner": "0cb37f9d-47ff-40fc-96c6-ed552ecf4a6d"
+               },
+               "name": "TechAcademy [テックアカデミー] | オンラインのプログラミングスクール",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/techacademy"
+            }, {
+               "date_added": "13216224501034027",
+               "id": "23",
+               "meta_info": {
+                  "Partner": "5ff29098-4b4f-4025-9ed0-7afe5f2fb5fa"
+               },
+               "name": "ITエキスパートのための問題解決メディア - ＠IT",
+               "type": "url",
+               "url": "https://www.atmarkit.co.jp/"
+            }, {
+               "date_added": "13216224501036032",
+               "id": "24",
+               "meta_info": {
+                  "Partner": "9dcca19f-95a0-429d-919d-5efaa76097e5"
+               },
+               "name": "TechCrunch",
+               "type": "url",
+               "url": "https://jp.techcrunch.com/"
+            }, {
+               "date_added": "13216224501037529",
+               "id": "25",
+               "meta_info": {
+                  "Partner": "e61ba772-454f-4ce8-9ec6-7618be02bef6"
+               },
+               "name": "ギズモード・ジャパン",
+               "type": "url",
+               "url": "https://www.gizmodo.jp/"
+            }, {
+               "date_added": "13216224501037970",
+               "id": "26",
+               "meta_info": {
+                  "Partner": "fbfed120-d577-40f1-85e0-9366ca032a30"
+               },
+               "name": "GIGAZINE（ギガジン） - 黄金比が生む美にインスパイアされて考えられた「ハリスの螺旋」",
+               "type": "url",
+               "url": "https://gigazine.net/"
+            }, {
+               "date_added": "13216224501039004",
+               "id": "27",
+               "meta_info": {
+                  "Partner": "95b80166-584c-42f0-91d0-504b56322a2e"
+               },
+               "name": "ライフハッカー［日本版］",
+               "type": "url",
+               "url": "https://www.lifehacker.jp/"
+            }, {
+               "date_added": "13216224501039890",
+               "id": "28",
+               "meta_info": {
+                  "Partner": "592a02c6-9a3f-4154-8403-9f0104c4bebc"
+               },
+               "name": "CNET Japan",
+               "type": "url",
+               "url": "https://japan.cnet.com/"
+            } ],
+            "date_added": "13216224501030418",
+            "date_modified": "13216224501039890",
+            "id": "21",
+            "meta_info": {
+               "Partner": "44e0afcf-4a5e-4a1c-bb9a-0eba3b55965d"
+            },
+            "name": "テクノロジー",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13216224501040914",
+               "id": "30",
+               "meta_info": {
+                  "Description": "games",
+                  "Partner": "fcee2488-9828-4440-a302-b5747a9952bf"
+               },
+               "name": "GamersGate - Buy and download games for PC now",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/gamersgate"
+            }, {
+               "date_added": "13216224501042461",
+               "id": "31",
+               "meta_info": {
+                  "Description": "ゲーム,オンライン",
+                  "Partner": "26b35433-eb3f-475b-82d9-df5294330b92"
+               },
+               "name": "無料ゲーム・オンラインゲームならハンゲーム",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/hangame"
+            }, {
+               "date_added": "13216224501045597",
+               "id": "32",
+               "meta_info": {
+                  "Partner": "5dd91372-b88a-4f23-be4b-5b2889d89136"
+               },
+               "name": "ゲームと趣味・無料でオンラインゲームするならガンホーゲームズ",
+               "type": "url",
+               "url": "https://www.gungho.jp/"
+            }, {
+               "date_added": "13216224501046904",
+               "id": "33",
+               "meta_info": {
+                  "Partner": "451bf936-e39e-4212-8980-a5d5072f2ff4"
+               },
+               "name": "PCゲーム - ゲームならYahoo!モバゲー",
+               "type": "url",
+               "url": "https://yahoo-mbga.jp/"
+            }, {
+               "date_added": "13216224501047506",
+               "id": "34",
+               "meta_info": {
+                  "Partner": "511c42cc-aad9-4697-83d4-5789189cb261"
+               },
+               "name": "無料オンラインゲーム完全ガイド | 人気ランキング・新作 [PC]",
+               "type": "url",
+               "url": "https://www.game-hiroba.com/"
+            }, {
+               "date_added": "13216224501048214",
+               "id": "35",
+               "meta_info": {
+                  "Partner": "b934506a-5229-4689-a0ff-c9de7a878b9b"
+               },
+               "name": "オンラインゲーム人気ランキング・無料ゲーム情報｜オンラインゲームズーム",
+               "type": "url",
+               "url": "https://www.gaming-city.com/"
+            } ],
+            "date_added": "13216224501040445",
+            "date_modified": "13216224501048214",
+            "id": "29",
+            "meta_info": {
+               "Partner": "fc5a4b16-76fc-4ac2-99fe-622a4a11e1d0"
+            },
+            "name": "ゲーム",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13216224501048972",
+               "id": "37",
+               "meta_info": {
+                  "Partner": "806f24cf-35f2-42ba-a73f-8fd174328fe8"
+               },
+               "name": "日本経済新聞",
+               "type": "url",
+               "url": "https://www.nikkei.com/"
+            }, {
+               "date_added": "13216224501049619",
+               "id": "38",
+               "meta_info": {
+                  "Partner": "317d7bab-4301-40e2-a82d-c9fd90b3314b"
+               },
+               "name": "産経ニュース",
+               "type": "url",
+               "url": "https://www.sankei.com/"
+            }, {
+               "date_added": "13216224501050654",
+               "id": "39",
+               "meta_info": {
+                  "Partner": "236e8a1d-48ed-47ee-a2e0-6c7fce60b819"
+               },
+               "name": "MSN Japan - Hotmail, Outlook.com, Skype, OneDrive, Bing",
+               "type": "url",
+               "url": "https://www.msn.com/ja-jp"
+            }, {
+               "date_added": "13216224501051232",
+               "id": "40",
+               "meta_info": {
+                  "Partner": "a82d3ee9-621a-4bb4-a3e5-f7e3b30424b2"
+               },
+               "name": "ニュース 速報 YOMIURI ONLINE(読売新聞)",
+               "type": "url",
+               "url": "https://www.yomiuri.co.jp/"
+            }, {
+               "date_added": "13216224501051613",
+               "id": "41",
+               "meta_info": {
+                  "Partner": "55c77579-d142-4fef-8891-283b34acff9c"
+               },
+               "name": "朝日新聞デジタル：朝日新聞社のニュースサイト",
+               "type": "url",
+               "url": "https://www.asahi.com/"
+            }, {
+               "date_added": "13216224501052073",
+               "id": "42",
+               "meta_info": {
+                  "Partner": "875a3735-a6d0-4fdf-b5c7-e021586aabdf"
+               },
+               "name": "日刊工業新聞 Business Line - 日本のモノづくりに貢献する",
+               "type": "url",
+               "url": "https://www.nikkan.co.jp/"
+            }, {
+               "date_added": "13216224501052531",
+               "id": "43",
+               "meta_info": {
+                  "Partner": "f3138cfe-5ffd-4b02-a4d4-06be0831970d"
+               },
+               "name": "時事ドットコム",
+               "type": "url",
+               "url": "https://www.jiji.com/"
+            }, {
+               "date_added": "13216224501052945",
+               "id": "44",
+               "meta_info": {
+                  "Description": "ビジネス,ニュース",
+                  "Partner": "014d52e0-4366-4a01-af53-a433c4658c5b"
+               },
+               "name": "日経ビジネス│日経BPが刊行するNo.1ビジネス誌",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/nikkeibpm"
+            } ],
+            "date_added": "13216224501048663",
+            "date_modified": "13216224501052945",
+            "id": "36",
+            "meta_info": {
+               "Partner": "cacb787b-d28b-4bd6-a1f8-ddfda23c298b"
+            },
+            "name": "ニュース",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13216224501053787",
+               "id": "46",
+               "meta_info": {
+                  "Description": "クーポン",
+                  "Partner": "d9dcefb8-a2ba-433b-a99d-ecd1030a3548"
+               },
+               "name": "割引クーポンの共同購入サイト - くまポン(クマポン)byGMO",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/kumapon"
+            }, {
+               "date_added": "13216224501054215",
+               "id": "47",
+               "meta_info": {
+                  "Description": "ショッピング, 通販",
+                  "Partner": "2192209c-1d68-4c5b-8a6e-8e8d26fdacd7"
+               },
+               "name": "【楽天市場】Shopping is Entertainment! ： インターネット最大級の通信販売、通販オンラインショッピングコミュニティ",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/rakuten"
+            }, {
+               "date_added": "13216224501055069",
+               "id": "48",
+               "meta_info": {
+                  "Description": "古本,DVD,CD,ゲーム,買取",
+                  "Partner": "1833a2db-474e-4777-9bb2-10943690f350"
+               },
+               "name": "古本・DVD・CD・ゲームのネット買取・通販サイト ネットオフ",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/netoff"
+            }, {
+               "date_added": "13216224501055607",
+               "id": "49",
+               "meta_info": {
+                  "Description": "PC,パーツ,中古PC",
+                  "Partner": "2ff53d20-cc6a-4e07-b413-cfc2a60f4b39"
+               },
+               "name": "パソコン（PC）通販のドスパラ【公式】",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/dospara"
+            }, {
+               "date_added": "13216224501056126",
+               "id": "50",
+               "meta_info": {
+                  "Description": "PC,パーツ,BTO",
+                  "Partner": "13fe5165-90de-468d-9a9b-c8194d961638"
+               },
+               "name": "自作PC・パーツ・周辺機器などの専門店【TSUKUMO】公式通販サイト",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/tsukumo"
+            }, {
+               "date_added": "13216224501056806",
+               "id": "51",
+               "meta_info": {
+                  "Description": "スクエニ",
+                  "Partner": "474827cf-8966-4e71-95da-ad6bc858bb22"
+               },
+               "name": "スクウェア・エニックス e-STORE",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/square-enix"
+            } ],
+            "date_added": "13216224501053377",
+            "date_modified": "13216224501056806",
+            "id": "45",
+            "meta_info": {
+               "Partner": "934071f1-d04d-491d-8a3c-a9e86b28e80c"
+            },
+            "name": "ショッピング",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13216224501057742",
+               "id": "53",
+               "meta_info": {
+                  "Description": "野球,サッカー,相撲,芸能",
+                  "Partner": "ea1d9756-f59a-4e6c-8548-d8500d9f578c"
+               },
+               "name": "東京中日スポーツ",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/tokyoshimbun"
+            }, {
+               "date_added": "13216224501058391",
+               "id": "54",
+               "meta_info": {
+                  "Description": "ゴルフ,XEBIO",
+                  "Partner": "07b3cac0-a307-47ab-ba2a-18b57bd45ae7"
+               },
+               "name": "ゼビオ：総合スポーツ用品を扱う「スーパースポーツゼビオ」の公式通販サイト",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/xebio"
+            }, {
+               "date_added": "13216224501058848",
+               "id": "55",
+               "meta_info": {
+                  "Partner": "b18b8e53-b448-41ee-9417-408983aa8fa1"
+               },
+               "name": "ESPN F1 | F1 ニュース | 速報 | Live",
+               "type": "url",
+               "url": "http://ja.espnf1.com/"
+            }, {
+               "date_added": "13216224501062661",
+               "id": "56",
+               "meta_info": {
+                  "Partner": "b1b5d923-52ae-4995-beba-d6e700929b50"
+               },
+               "name": "全国スキー場・ゲレンデ情報サイト ＊ SNOWNET",
+               "type": "url",
+               "url": "https://snownet.jp/"
+            }, {
+               "date_added": "13216224501063987",
+               "id": "57",
+               "meta_info": {
+                  "Partner": "c1ae4523-8ea4-49b3-964c-ee752aed41a6",
+                  "Thumbnail": "/resources/PATH"
+               },
+               "name": "TENNIS.jp テニス ドット ジェイピー | 総勢70名を超えるプロ選手を始めとするテニスエキスパートのテニスブログ、最新テニスニュース、全国のテニススクール&テニスショップ情報を掲載！テニス好き必見のテニスポータルサイトです。",
+               "type": "url",
+               "url": "https://tennis.jp/"
+            } ],
+            "date_added": "13216224501057277",
+            "date_modified": "13216224501063987",
+            "id": "52",
+            "meta_info": {
+               "Partner": "f9288fd1-4e0c-4107-9ef6-faf512f54928"
+            },
+            "name": "スポーツ",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13216224501065213",
+               "id": "59",
+               "meta_info": {
+                  "Description": "flight tickets",
+                  "Partner": "23983de1-7f2e-42da-987b-1da0caa6cfab"
+               },
+               "name": "Qatar Airways",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/qatar"
+            }, {
+               "date_added": "13216224501065900",
+               "id": "60",
+               "meta_info": {
+                  "Description": "travel, apartments, guests",
+                  "Partner": "f1c422da-4f02-455d-b4d8-f079f31ca9e2"
+               },
+               "name": "AirBnB",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/airbnb"
+            }, {
+               "date_added": "13216224501066543",
+               "id": "61",
+               "meta_info": {
+                  "Description": "トラベル, 旅行, ホテル",
+                  "Partner": "843a37d1-3dab-42da-a45b-b21e8797da9d"
+               },
+               "name": "Booking.com: 世界中のホテル802,167軒掲載.",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/bookingcom-jp"
+            }, {
+               "date_added": "13216224501067046",
+               "id": "62",
+               "meta_info": {
+                  "Description": "レンタカー,旅行",
+                  "Partner": "34402beb-d0dc-4c53-82b6-1955de229003"
+               },
+               "name": "日本旅行「旅ぷらざ」レンタカー料金比較・予約サイト",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/rentacar"
+            }, {
+               "date_added": "13216224501067510",
+               "id": "63",
+               "meta_info": {
+                  "Description": "ポケットWiFi,海外出張",
+                  "Partner": "ba9cf0b0-dc39-442b-8ea7-8483758558c4"
+               },
+               "name": "海外行くなら！イモトのWiFi ",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/imotonowifi"
+            }, {
+               "date_added": "13216224501067924",
+               "id": "64",
+               "meta_info": {
+                  "Description": "travel, hotels",
+                  "Partner": "734a6db9-3638-4a1e-8a43-327685a8f584"
+               },
+               "name": "Hotels.com - Cheap Hotels, Discount Rates & Hotel Deals",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/hotelscom"
+            }, {
+               "date_added": "13216224501068359",
+               "id": "65",
+               "meta_info": {
+                  "Description": "旅行,出張,ホテル",
+                  "Partner": "06a72977-8b32-4b30-863f-bf266628ac40"
+               },
+               "name": "楽天トラベル: 宿・ホテル予約 国内旅行・海外旅行 予約サイト",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/rakuten-travel"
+            }, {
+               "date_added": "13216224501068762",
+               "id": "66",
+               "meta_info": {
+                  "Description": "通訳,ガイド",
+                  "Partner": "d02456b4-d704-43fe-aea8-4b34da8d91ff"
+               },
+               "name": "トラベロコ│海外在住日本人（ロコ）があなたの旅をお手伝いします。",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/traveloco"
+            }, {
+               "date_added": "13216224501069332",
+               "id": "67",
+               "meta_info": {
+                  "Description": "ホテル,旅館",
+                  "Partner": "42c953ff-0fcd-4e2b-8512-3a4017917d41"
+               },
+               "name": "ホテル予約・旅館予約[一休.com]",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/ikyu"
+            } ],
+            "date_added": "13216224501064775",
+            "date_modified": "13216224501069332",
+            "id": "58",
+            "meta_info": {
+               "Partner": "afa26bd0-967e-4cdf-857c-d300a1af03e5"
+            },
+            "name": "トラベル",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13216224501070332",
+               "id": "69",
+               "meta_info": {
+                  "Description": "映画,ドラマ,アニメ",
+                  "Partner": "122a9d7e-8ed6-4bed-8a8f-6de0ef9c2d92"
+               },
+               "name": "Hulu(フールー): 人気映画、ドラマ、アニメが見放題！【お試し無料】",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/hulu"
+            }, {
+               "date_added": "13216224501070872",
+               "id": "70",
+               "meta_info": {
+                  "Description": "漫画,アニメ,雑誌",
+                  "Partner": "3198c0d8-781c-4610-a7eb-e1571378b3f2"
+               },
+               "name": "マンガ･アニメ･声優誌など最新号が読み放題！マガジン☆WALKER",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/magazinewalker"
+            } ],
+            "date_added": "13216224501069880",
+            "date_modified": "13216224501070872",
+            "id": "68",
+            "meta_info": {
+               "Partner": "8e608288-59f1-4eee-afc7-c5b57e931b3a"
+            },
+            "name": "エンターテイメント",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13216224501071809",
+               "id": "72",
+               "meta_info": {
+                  "Description": "レストラン,予約",
+                  "Partner": "3ea8d08c-9af8-4615-87ca-2f0ad1662bc3"
+               },
+               "name": "ぐるなび - レストラン予約と宴会・グルメ情報 検索サイト",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/gnavi"
+            }, {
+               "date_added": "13216224501072305",
+               "id": "73",
+               "meta_info": {
+                  "Description": "レストラン,予約",
+                  "Partner": "97fa93ad-0f52-4c22-b56f-1255dd07496f"
+               },
+               "name": "食べログ - ランキングと口コミで探せるグルメサイト",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/tabelog"
+            } ],
+            "date_added": "13216224501071409",
+            "date_modified": "13216224501072305",
+            "id": "71",
+            "meta_info": {
+               "Partner": "1f96dd21-613d-4faa-ad10-4e741e4410d2"
+            },
+            "name": "グルメ",
+            "type": "folder"
+         } ],
+         "date_added": "13216224498480509",
+         "date_modified": "13216224501071416",
+         "id": "1",
+         "name": "ブックマーク",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13216224498480519",
+         "date_modified": "0",
+         "id": "2",
+         "name": "その他のブックマーク",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13216224498480521",
+         "date_modified": "0",
+         "id": "3",
+         "name": "モバイルのブックマーク",
+         "type": "folder"
+      },
+      "trash": {
+         "children": [  ],
+         "date_added": "13216224498480522",
+         "date_modified": "0",
+         "id": "4",
+         "name": "ごみ箱",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

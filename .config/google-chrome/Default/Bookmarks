@@ -1,0 +1,147 @@
+{
+   "checksum": "bd5e83c8a36cbca1d4b701d7f0665eb1",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13192807647299808",
+            "guid": "6352a258-339a-4534-b7d0-bf90e1b213ff",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13201620029409724"
+            },
+            "name": "Addons",
+            "type": "url",
+            "url": "https://addoncrop.com/"
+         }, {
+            "date_added": "13192943996646380",
+            "guid": "392a57bd-7b13-493f-aff3-54a431141e36",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13202760695158662"
+            },
+            "name": "Google ドライブ",
+            "type": "url",
+            "url": "https://drive.google.com/drive/my-drive"
+         }, {
+            "date_added": "12928722441029868",
+            "guid": "031c7709-896f-4142-b99c-82b48c00e84d",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13197023597974103"
+            },
+            "name": "PortableApps.com",
+            "type": "url",
+            "url": "http://portableapps.com/"
+         } ],
+         "date_added": "13214811077909955",
+         "date_modified": "13192943996646380",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "ブックマーク バー",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13214811077909961",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "その他のブックマーク",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13169553719936358",
+            "guid": "a78cf659-836a-4cf4-b80d-6ec2fd546526",
+            "id": "8",
+            "name": "テスト",
+            "type": "url",
+            "url": "javascript:(function(F,i,r,e,b,u,g,L,I,T,E){if(F.getElementById(b))return;E=F[i+%E2%80%99NS%E2%80%99]&&F.documentElement.namespaceURI;E=E?F[i+%E2%80%99NS%E2%80%99](E,%E2%80%99script%E2%80%99):F[i](%E2%80%98script%E2%80%99);E[r](%E2%80%98id%E2%80%99,b);E[r](%E2%80%98src%E2%80%99,I+g+T);E[r](b,u);(F[e](%E2%80%98head%E2%80%99)[0]||F[e](%E2%80%98body%E2%80%99)[0]).appendChild(E);E=new%20Image;E[r](%E2%80%98src%E2%80%99,I+L);})(document,%E2%80%99createElement%E2%80%99,%E2%80%99setAttribute%E2%80%99,%E2%80%99getElementsByTagName%E2%80%99,%E2%80%99FirebugLite%E2%80%99,%E2%80%994%E2%80%B2,%E2%80%99firebug-lite.js%E2%80%99,%E2%80%99releases/lite/latest/skin/xp/sprite.png%E2%80%99,%E2%80%99https://getfirebug.com/%E2%80%99,%E2%80%99#startOpened%E2%80%99);"
+         }, {
+            "date_added": "13169601979884414",
+            "guid": "8f5d3148-8901-40f5-9570-864f581a824c",
+            "id": "9",
+            "name": "iPhoneでHTMLソースを表示する方法 : プログラマー社長の「日々発見」",
+            "type": "url",
+            "url": "javascript:(function()%7Bvar%20d%3Ddocument%2Cs%2Ce%3Bvar%20el%3Dd.getElementById('snpy')%3Bif(typeof%20Snoopy!%3D'undefined')%7BSnoopy.toggle()%3Breturn%7Delse%20if(el)%7Bel.className%3D%2Fclosed%2F.test(el.className)%3Fel.className.replace('closed'%2C'')%3Ael.className%2B'%20closed'%3Breturn%7Ds%3Dd.createElement('link')%3Bs.setAttribute('href'%2C'http%3A%2F%2Fsnoopy-assets.allmarkedup.com%2Fsnoopy-min.css')%3Bs.setAttribute('rel'%2C'stylesheet')%3Bs.setAttribute('type'%2C'text%2Fcss')%3Bd.getElementsByTagName('head')%5B0%5D.appendChild(s)%3Be%3Dd.createElement('script')%3Be.setAttribute('src'%2C'http%3A%2F%2Fsnoopy-assets.allmarkedup.com%2Fsnoopy-min.js')%3Bd.getElementsByTagName('body')%5B0%5D.appendChild(e)%7D)()%3B"
+         }, {
+            "date_added": "13193386512264392",
+            "guid": "ff5606eb-998b-4747-9770-15f52a04e153",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13193393108334497"
+            },
+            "name": "SoftEther VPNによるWAN越え自宅LAN接続とリモートデスクトップ① – miminoinu",
+            "type": "url",
+            "url": "https://blog.miminoinu.net/archives/16/"
+         }, {
+            "date_added": "13193419503760791",
+            "guid": "2444e7a7-b013-48b2-b9da-e2d3cb9c3319",
+            "id": "11",
+            "meta_info": {
+               "last_visited_desktop": "13194534267902214"
+            },
+            "name": "TSS Saver - Conan",
+            "type": "url",
+            "url": "https://stor.1conan.com/tsssaver/shsh/6026071322959918/"
+         }, {
+            "date_added": "13203596601870570",
+            "guid": "c985bce6-69e9-4e09-9145-2fa609875079",
+            "id": "12",
+            "name": "【13個掲載】 機械学習に使える日本語のデータセットまとめ - Qiita",
+            "type": "url",
+            "url": "https://qiita.com/rei620m/items/ed80350c29540a452824"
+         }, {
+            "date_added": "13211357419513549",
+            "guid": "c09fd20f-465f-476f-abb2-6e392373ac87",
+            "id": "13",
+            "name": "Arch Linux の neovim でクリップボードにヤンクした内容を保存できるようにする - Qiita",
+            "type": "url",
+            "url": "https://qiita.com/gotchane/items/0e7e6e0d5c7fa9f55c1a"
+         }, {
+            "date_added": "13213363462265660",
+            "guid": "51012704-6f2b-4d76-b0ab-42d9a74892b1",
+            "id": "14",
+            "name": "Colaboratory へようこそ - Colaboratory",
+            "type": "url",
+            "url": "https://colab.research.google.com/notebooks/welcome.ipynb#recent=true"
+         }, {
+            "date_added": "13218687313606654",
+            "guid": "bb4f73ad-2b1e-4282-9d6b-b3f4cea643f9",
+            "id": "16",
+            "name": "iconmonstr - Free simple icons for your next project",
+            "type": "url",
+            "url": "https://iconmonstr.com/"
+         }, {
+            "date_added": "13219151290660671",
+            "guid": "4949c103-a8b6-4c55-ba20-66d9a6acbaf5",
+            "id": "18",
+            "name": "深層学習を利用した食事画像変換で飯テロ - Qiita",
+            "type": "url",
+            "url": "https://qiita.com/negi111111/items/6d6f19edc060a91662ec"
+         }, {
+            "date_added": "13219429952379288",
+            "guid": "04ec5546-2862-4e1b-a053-ba3147c27612",
+            "id": "20",
+            "name": "Neural Style Transfer: Prismaの背景技術を解説する",
+            "type": "url",
+            "url": "https://elix-tech.github.io/ja/2016/08/22/art.html"
+         }, {
+            "date_added": "13219887182314434",
+            "guid": "feefc82d-5246-4dc7-a349-02cdf5259b6e",
+            "id": "22",
+            "name": "【ハッキングに挑戦】脆弱性が残された仮想イメージ公開プラットフォーム（VulnHub）で練習をする - Qiita",
+            "type": "url",
+            "url": "https://qiita.com/v_avenger/items/8accd0cecba2c8f1a923"
+         } ],
+         "date_added": "13214811077909963",
+         "date_modified": "13219887182314434",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "モバイルのブックマーク",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CtEBCrABCIiBAhKpARJ2CAISOAoGCgJibRABEDMaEgkAKK4/HpkFACEAKK4/HpkFADIYChYIAhEDnoFPHpkFABgAIQAAAAAAAAAAEjgKBgoCYmQQABAzGhIJACiuPx6ZBQAhACiuPx6ZBQAyGAoWCAIR7Kp9Tx6ZBQAYACEAAAAAAAAAACAAMh9ReVpySkRzNDNINGZjSHJidUxEVmt2cnJTSVVNN2hZSOnp44buLXDp6eOG7i0SACABKhhmWlpTRUJZWnVnc1FDQzU0RktpdWd3PT0SrgEIARKpARJOWjpBRHF0QVp3RE82eWJNb2ZuSk1zQzROVExjVTdGU0xRUE53L3hwNGFyUEsyb250REtObGhqTlFPdjgxQldNZTRnU3hQRG5hK0lsYUZvGAAgACgAMN+43fzqhuUCOABAAEocVStHR0l0WkVEcFpzSVNsT1VhSVR1SUxkTW5JPVomIiSAAAAAAAAAACX8+2yNqXkyl6QpC9ZdgmvJDS+n7Q/1pBIcOn8SxgEIAxLBARJmWjpBRHF0QVp3aXpXRkU2RlhLTWoyNFRXbHM0MWhwV2ROVU93dGdNb0tCWVRkUlNTdVIveW93TjdmOHl5Z2I5WFlMK2JsaGN2VVFRd1Y2OEhQQUlpVnV2dVd4UXdoSEk2Q1RiZz09GAAgACgAMN+43fzqhuUCOABAAEocNzlsK0xSRVVwaWFFdkREK0c0M2NwWFN0d0JjPVomIiSAAAAAAAAAAK20ySB0qO7PKKPXDBp9k3/lZL+kWxnZIEmqXn8SxgEIAhLBARJmWjpBRHF0QVp4ajNLa1RNa0JNbWNFb25KTjhuemRpeXlUYXZJb0lzczg1YmY5dWZJSUw3UVZOZWMyMys0R1diOVJEY2NVUVJKQUV3OHpRdndqajFOMTl5NnZBNkR2S093WXUvZz09GAAgACgAMN+43fzqhuUCOABAAEocNXVzeS9jcGZwaTFFdG9CSERnWElzMHFiNHJBPVomIiSAAAAAAAAAAA+67atE+ljroijeknTzOF5armpuXlpS1vqqHn8SigIIDBKFAhKmAVo6QURxdEFaeHhCcTQwMGNmM2VqRGZYR0xnSEd1OThvZGVEcDNoNFJpdTB3dnlSZDNvUW03Q0YvY2dvTnFtNG9zTUdabURjaDR4M1VDNk83aVpKaWo2STBIUEtDOEZmcE5adndLWFNDSUc0endvWmcrRjdaN0NHZ0YwNGNIOGhmWmFiME9RLzRyajZhSnA2aitsakRSNlY2aU1saWs4VGQyd3pnPT0YACAAKAAwj+zT5rnA4gI4lYTkl7AtQJWE5JewLUocTS9oaXJmeFBBMk55VUF6QUtMc3ErZ1p2TjRNPVofIh3qS09FUlpSSlhwc2VVNmRnSlpJVENVU2lJWUlJPRKKAggUEoUCEqYBWjpBRHF0QVp4eEJxNDAwY2YzZWpEZlhHTGdIR3U5OG9kZURwM2g0Uml1MHd2eVJkM29RbXpRS1hPYmNRR2tLck9QSjZlVENoZEZ6b28rVzBBTm0zUGxvMTlnWUlFUnhPdFlXUlhSNy84VTdFYzE1WXlqTUJKN3pNSUNSMUJxeERJWXB3RVppcEpRajFQU0lOdXRhUy95dEVuL2g0RkZVWmhhdnc9PRgAIAAoADCp2brQoY3mAjj/htuV6y1A/4bblestShw3eWl4TDd0RmZYdnY5cEJkejd3SG1laUJoYlE9Wh8iHf9EK25QVTNXSHp5N2thd0YvQkoxbDhsSFN2Wmc9EooCCA4ShQISpgFaOkFEcXRBWnh4QnE0MDBjZjNlakRmWEdMZ0hHdTk4b2RlRHAzaDRSaXUwd3Z5UmQzb1FxSnV6OUk1OWhQZXVCT1VZNzNwU0VDS3Z1dUJvbnJ4WXVkSllaYzQ3Qm5EK1ZWYjI0QUNwUWQrZ0R0eUc0eE1sOWdVd21oVmZqUEVMalduL1A3Z0t0b05sVXZHUmRRTnlpT0hJZ3pKOHBOSVIzWDZ2QT09GAAgACgAMOa+2JfV6+QCOIDx/cjULUCA8f3I1C1KHGMzYkJGaUFMNElBOHl4RkdtRWt0YVlMYzJIYz1aHyId+jZMdjJ4eTcxN090ajJDZVhLODBGZ3gwdDQwVT0SigIIEBKFAhKmAVo6QURxdEFaeHhCcTQwMGNmM2VqRGZYR0xnSEd1OThvZGVEcDNoNFJpdTB3dnlSZDNvUXFmYUthNlc5dUxyVlZ5L3V2eGl0SzVQcGROaVlKZGRyUTl1YXpRTmYxYWtTVG5kS0w1SmdXSHk3RWN4RjVSaGE3L08zV3BGQTRueDF6RkxEcmVVY1VidHdLUCtJdCtiYWN3WEQzU2xGVmppbXBjYzBnPT0YACABKAEw5KTugb/45QI4yv3Ls+gtQKeqtMHoLUocZGRnVWJBWFR4cmFzeXl6ZU05RXBiUE9qeEd3PVofIh39OEk0ZTA3VjJ6czNUcU1HejRBNjFwbyt3dmdvPRKKAggSEoUCEqYBWjpBRHF0QVp4eEJxNDAwY2YzZWpEZlhHTGdIR3U5OG9kZURwM2g0Uml1MHd2eVJkM29RclRrQmQ3RGYvOURnelVwcHFwNWFGWmphazgrVmFrdU81VUR5U1JtYzN5bnFlajFHQUd2UzJXeU9leWlmNW9sZVg0SmFoZk5zbi84V082c1hJcFNwb2NRalY2UHdWZmdXNThmQStCR0IrNThqZndCVVE9PRgAIAAoADCpwpfEk4XmAjir8uqQ6i1Aq/LqkOotShxrQndQbFVzdVJLdThQd2NVWmN1STRvVHV4VmM9Wh8iHf5DbVFTWnk3Z2Y3S3loUFdkRUFqL2pTQWtjTDg9EooCCBYShQISpgFaOkFEcXRBWnh4QnE0MDBjZjNlakRmWEdMZ0hHdTk4b2RlRHAzaDRSaXUwd3Z5UmQzb1F1d0IzbzBNc2FYQ05XRGpsRkZNeTVRNHNreEZMOW55U0hEZW1ONE5ZT2hmcm1WZFFxTm0rTzJWbDhseDdwTW5tUEFGWUUwRXpabE5ua2V5YTVEeVRhc3lLYUlEUm5pNTUvZ1hSWElRNVBpVmI5cFdrUT09GAAgACgAMIHY0vjImuYCOPGT3u/sLUDxk97v7C1KHDRSbllYN0tLMk45UTNsOHZZZWo3NG0zT0hkST1aHyId/0g3UnlFUjVZNERKbUhib1paZkZqZmxCNmlGRT0SiQIIBRKEAhKmAVo6QURxdEFaeHhCcTQwMGNmM2VqRGZYR0xnSEd1OTlJK3k2VVJNMzNmVTlYbVllUHp1cDFoNlB3YkQ4L1JJVGdwUTdidkRiT1h3anlxOVd6QUhrb1grR1dOVDRNQURQMVF6T2FyMnljVUVnb2VrajFJT1haRlpIZHZxNEhyUGNkdjRvSE9CYTFVcFZla3Q5MWFGS1ppTmoydzJPZWR0Y0Nqek5nPT0YACACKAIwj6S0uJGM5gI4xMCa/4ctQP/ooIPrLUocT2RMdnc1enVCU2NXaGxQUXNtb3liazlLQi9JPVoeIhxLTElWcmk2dzhUT2VCYnVRYlFtbFBtRHFsNDA9EooCCAsShQISpgFaOkFEcXRBWnh4QnE0MDBjZjNlakRmWEdMZ0hHdTlIQ2gvOU1rK1YwbGl4R0VpdjlNbldPRTg4dXRwMUVyVjdjUGw3THVJbTJnZjBSc0FyZGJJNzVUZWQ5QXBuQ2JGNVh2ZVBkN2RJS2Q4UlgyZEZIUTk2bHdGOUpkNnl0eERoTHRQNjJYejh3djFZTFBsblVPVlRLWE8wSzV3aVdUWi8xUnMxZz09GAAgACgAMMnf4fzZuOACOJCh+6KKLUCQofuiii1KHEowbTdOYWQydmcvVGllUkkxbHFZNDErV0NXTT1aHyId1XBvZzJzWFpheWgrRC9DMlRKOWtIWlBsaGpkQT0SiQIICBKEAhKmAVo6QURxdEFaeHhCcTQwMGNmM2VqRGZYR0xnSEd1OUpmNHU1UDM0WG1nRDRveEd0ZzlMbVNPS0Y1cG42andqR1ZYajgvcE9oZkhKbHdQUkZBVWwyVEVnVm1JaGZEWGQ1MS9qUEc2bUdRZFVsV09NR2U3UEcxUzZGanV3WmQ5c3Y4c2N0YnpDcy9tQ3Y0SFA0MnF6eWFQSHpZSDIyVnJzVkNCK3NnPT0YACAAKAAw4PnHueL13QI4g7XvrrEsQIO1766xLEocVG9UQUIxamc4ME9BUzhoT2Z1dXVySkdlVTJRPVoeIhw5TlY1eDVYZk5CeVFUSlhhSVdZOGhzd3JQSW89EokCCAkShAISpgFaOkFEcXRBWnh4QnE0MDBjZjNlakRmWEdMZ0hHdTlKZjR1NVAzNFhtZ0Q0b3hHdGc5TG1WUXNlWlIvSExaOEc0WnBKVVFqNXVrSC9HWXRqM1J5VkpuS1MvUUlTSkJ0QVJ0dUNkdEJpSXk1ck9aYkJkcksyMXFyd2pTRXNlRlkxcmc3dEJ3UkZaYXJkQVVLL2Z6MmREWWQySmRJTE5zQzFQcVVVZz09GAAgACgAMK+i/v2J49oCOO778MWxLEDu+/DFsSxKHHgySlgvRXJpQUNwL2hvWlA3S1g4dkVsZGRtVT1aHiIcRlFOUWtoZ3Y3K2FrNW9JbzNpdkZUbC9sUllFPRKKAggKEoUCEqYBWjpBRHF0QVp4eEJxNDAwY2YzZWpEZlhHTGdIR3U5SmY0dTVQMzRYbWdENG94R3RnOUxtZWVnNlgydjhpRisyU3pMRTNpYXN3WXR4ZXNsZzNwVTEwclZ2ZDBpWXBXbXlCZURrTy9PSTNDY2ZHZlZ5WDZ6eSs5T1EvbTRIcWp4ZDZwYXRrWS90VTBaME9tR0FIR0VnYnMvRUJXNW5QQlBFUStpZ1E9PRgAIAAoADCj9NDZl9ziAjiMz52Tii1AjM+dk4otShxucU9oNlRqc3JZK0RzVC9PZE9JMUJxc2NxMnM9Wh8iHatVVXZBaS9RMGU4ay9UbS9WR3pSOE1qK3ROZVk9EokCCAYShAISpgFaOkFEcXRBWnh4QnE0MDBjZjNlakRmWEdMZ0hHdTlXbnN5VWg4Mm9WNFpWak1qem9CTGMyNE5aWFVRVjkrc3ZsMU9Ca3QrVUEyRUY0bTZPYStCaThVR3pUemdsMXdabEhhTDU0WHpkUmV5QVNyTmFhdDc5SVBTR2VjWTZUM2tEdzRQSTFYaVdSS2RBM09HdHY2SCtYNkcyeWIvL2dPK3JGT1lsdz09GAAgAigCMI+ktLiRjOYCOObNnMCILUD/6KCD6y1KHHV0cmU3RHlFOE45V0NXYTBQUDRFUE5wMklOVT1aHiIcZE03a0w1RC95bnlQaWw2TnNPVm9DNy91R2hZPRKKAggNEoUCEqYBWjpBRHF0QVp4eEJxNDAwY2YzZWpEZlhHTGdIR3U5alIvdVpjUWsyUzZyMU9kRzZlR0RmcHoyYVNPY051ZFgyaWFUQUZRcWlJYmsxVyt4OWhXWCswbG5XUW5KK2xqWFNYalFFZStCVTlyZ3hzd1o0TUs5NWNmR1RGT21lSmxwa2owcms1cVFoV1dBd0VSdkpmb05hNGw2VE8yUXVJeTNWQWtpYmc9PRgAIAAoADD7x6iNqaLkAjj537aMzS1A+d+2jM0tShxnL3NaOVMwTUducWZJMFFObE1ldzd5RGpZQ2s9Wh8iHfVBcHpBVGZzU2VyMUhQbFlIME1TYWRVaE1XNnM9EooCCAcShQISpgFaOkFEcXRBWnh4QnE0MDBjZjNlakRmWEdMZ0hHdTlsbS9RV0dqQW9pcUFyN3BEU3BlSXFSWlE5bVJyYzJXeHV4Y0JFdzFUWGs1VjZwdWpNUzhNMkIxWUFRZFhZYWtIdDBmNVNBa1ozYnp4MVZOeEFQQ3RrTDFLRm56V2o0dHVqb1JSQ2FYZVZ1RFhiS28yVzUxenM2eC9QMkxiTjVDemhKNHdUdz09GAAgAigCMMyBhdXZ8+UCOJ2Lv96MLUDQqvPy5y1KHEdycDJ5L1Ezb0NMZDVUOUtkSm5MR01IQnJQTT1aHyIdsjB6QktrbGpwaGFEWlpwSm53VHcrRERlcDBRdz0=",
+   "version": 1
+}
